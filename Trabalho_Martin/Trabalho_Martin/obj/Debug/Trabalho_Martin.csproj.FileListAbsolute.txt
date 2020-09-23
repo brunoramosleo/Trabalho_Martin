@@ -1,0 +1,30 @@
+C:\Users\Estudio02\source\repos\Trabalho_Martin\Trabalho_Martin\bin\Debug\Trabalho_Martin.exe.config
+C:\Users\Estudio02\source\repos\Trabalho_Martin\Trabalho_Martin\bin\Debug\Trabalho_Martin.exe
+C:\Users\Estudio02\source\repos\Trabalho_Martin\Trabalho_Martin\bin\Debug\Trabalho_Martin.pdb
+C:\Users\Estudio02\source\repos\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.csprojAssemblyReference.cache
+C:\Users\Estudio02\source\repos\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.Form1.resources
+C:\Users\Estudio02\source\repos\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.Properties.Resources.resources
+C:\Users\Estudio02\source\repos\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.csproj.GenerateResource.cache
+C:\Users\Estudio02\source\repos\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.csproj.CoreCompileInputs.cache
+C:\Users\Estudio02\source\repos\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.exe
+C:\Users\Estudio02\source\repos\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.pdb
+C:\Users\Estudio02\Desktop\2SIAN\Trabalho_Martin\Trabalho_Martin\bin\Debug\Trabalho_Martin.exe.config
+C:\Users\Estudio02\Desktop\2SIAN\Trabalho_Martin\Trabalho_Martin\bin\Debug\Trabalho_Martin.exe
+C:\Users\Estudio02\Desktop\2SIAN\Trabalho_Martin\Trabalho_Martin\bin\Debug\Trabalho_Martin.pdb
+C:\Users\Estudio02\Desktop\2SIAN\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.csprojAssemblyReference.cache
+C:\Users\Estudio02\Desktop\2SIAN\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.Form1.resources
+C:\Users\Estudio02\Desktop\2SIAN\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.Properties.Resources.resources
+C:\Users\Estudio02\Desktop\2SIAN\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.csproj.GenerateResource.cache
+C:\Users\Estudio02\Desktop\2SIAN\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.csproj.CoreCompileInputs.cache
+C:\Users\Estudio02\Desktop\2SIAN\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.exe
+C:\Users\Estudio02\Desktop\2SIAN\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.pdb
+C:\Users\Estudio02\Desktop\em preogresso C#\Trabalho_Martin\Trabalho_Martin\bin\Debug\Trabalho_Martin.exe.config
+C:\Users\Estudio02\Desktop\em preogresso C#\Trabalho_Martin\Trabalho_Martin\bin\Debug\Trabalho_Martin.exe
+C:\Users\Estudio02\Desktop\em preogresso C#\Trabalho_Martin\Trabalho_Martin\bin\Debug\Trabalho_Martin.pdb
+C:\Users\Estudio02\Desktop\em preogresso C#\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.csprojAssemblyReference.cache
+C:\Users\Estudio02\Desktop\em preogresso C#\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.Form1.resources
+C:\Users\Estudio02\Desktop\em preogresso C#\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.Properties.Resources.resources
+C:\Users\Estudio02\Desktop\em preogresso C#\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.csproj.GenerateResource.cache
+C:\Users\Estudio02\Desktop\em preogresso C#\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.csproj.CoreCompileInputs.cache
+C:\Users\Estudio02\Desktop\em preogresso C#\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.exe
+C:\Users\Estudio02\Desktop\em preogresso C#\Trabalho_Martin\Trabalho_Martin\obj\Debug\Trabalho_Martin.pdb
